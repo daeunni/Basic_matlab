@@ -1,2 +1,2 @@
-# Basic_matlab
-Numerical analysis and computer experiments(MATH231) 
+# Basic Matlab
+Numerical analysis and computer experiments(MATH342 in Korea University) 
